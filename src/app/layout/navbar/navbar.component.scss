@@ -1,0 +1,15 @@
+.separator {
+  border-left: 1px solid #000000; /* Assuming border-gray-300 is similar to #d1d5db */
+  height: 100%; /* Adjust based on your design */
+  margin-left: auto; /* Center the separator if needed */
+  margin-right: auto; /* Center the separator if needed */
+}
+
+.search-icon-btn {
+  width: 40px; /* Adjust size as needed */
+  height: 40px; /* Adjust size as needed */
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
